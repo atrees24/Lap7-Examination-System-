@@ -9,6 +9,14 @@ namespace Lap7
         public int Id { get; set; }
         public string Name { get; set; }
 
+        public Subject Subject
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public Student(int id, string name)
         {
             if (string.IsNullOrWhiteSpace(name))
