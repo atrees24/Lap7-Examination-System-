@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lap7.Answers
+namespace ExamSystem.Answers
 {
     public class Answer:IComparable<Answer>
     {

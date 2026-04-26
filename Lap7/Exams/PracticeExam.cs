@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Lap7.Answers;
+using ExamSystem.Answers;
 
-namespace Lap7.Exams
+namespace ExamSystem.Exams
 {
     public class PracticeExam : Exam
     {

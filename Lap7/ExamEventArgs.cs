@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Lap7.Exams;
+using ExamSystem.Exams;
 
-namespace Lap7
+namespace ExamSystem
 {
     public class ExamEventArgs : EventArgs
     {

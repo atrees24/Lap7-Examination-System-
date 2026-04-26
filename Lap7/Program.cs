@@ -1,7 +1,7 @@
-﻿using Lap7.Answers;
-using Lap7.Exams;
+﻿using ExamSystem.Answers;
+using ExamSystem.Exams;
 
-namespace Lap7
+namespace ExamSystem
 {
     internal class Program
     {

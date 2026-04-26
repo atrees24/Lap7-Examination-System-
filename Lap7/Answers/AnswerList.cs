@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Lap7.Answers
+namespace ExamSystem.Answers
 {
     public class AnswerList
     {

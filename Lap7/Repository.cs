@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lap7
+namespace ExamSystem
 {
     public class Repository<T> where T : ICloneable, IComparable<T>
     {

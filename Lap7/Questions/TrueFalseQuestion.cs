@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Lap7.Answers;
+using ExamSystem.Answers;
 
 public class TrueFalseQuestion : Question
 {
